@@ -1,0 +1,7 @@
+# to set the token, run the command $env:DISCORD_TOKEN="your_bot_token_here" in the terminal
+# python version 3.11.5 is used
+# pip install -r requirements.txt
+# after installing the requirements and setting the token, run the command py -3.11 Main.py in the terminal
+requests==2.31.0
+discord.py==2.3.2
+aiohttp==3.9.1 
